@@ -1,4 +1,4 @@
-## Welcome to SENG 585!
+## Welcome to SENG 585 - Winter Quarter 2017!
 
 ## Course Time and Location
 - MTWF 1000-1100 Bldg. 646 Rm. 220
@@ -18,38 +18,36 @@
 
 ## Required Text
 
-[<big>**William Q. Meeker and Luis A. Escobar**</big>](http://www.public.iastate.edu/~stat533/)<br/>Statistical Methods for Reliability Data, Wiley-Interscience, Hoboken, NJ 1998
+- [**William Q. Meeker and Luis A. Escobar**](http://www.public.iastate.edu/~stat533/)<br/>Statistical Methods for Reliability Data, Wiley-Interscience, Hoboken, NJ 1998
 
 ## Additional Reliability Resources (Textbooks)
 
-[<big>**Charles E. Ebeling**</big>](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)<br/>An Introduction to Reliability and Maintainability Engineering, 2nd ed., Waveland Press, Long Grove, IL 2010
+- [**Charles E. Ebeling**](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)<br/>An Introduction to Reliability and Maintainability Engineering, 2nd ed., Waveland Press, Long Grove, IL 2010
 
-[<big>**Marvin. Rausand and Arlnot Hoyland**</big>](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=047147133X&bcsId=9457)<br/> System Reliability Theory: Models, Statistical Methods & Applications 2nd ed.Wiley-Interscience, Hoboken, NJ 2004
+- [**Marvin. Rausand and Arlnot Hoyland**](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=047147133X&bcsId=9457)<br/>System Reliability Theory: Models, Statistical Methods & Applications 2nd ed., Wiley-Interscience, Hoboken, NJ 2004
 
 ## Additional Reliability Resources (online)
 
-[__William Q. Meeker's Homepage__](http://www.public.iastate.edu/~wqmeeker/homepage.html)
+- [__William Q. Meeker's Homepage__](http://www.public.iastate.edu/~wqmeeker/homepage.html)
 
-[__Weibull.com - Reliability Engineering Resource Website__](http://www.weibull.com/)
+- [__Weibull.com - Reliability Engineering Resource Website__](http://www.weibull.com/)
 
-[__Reliasoft Corporation Homepage__](http://www.reliasoft.com/)
+- [__Reliasoft Corporation Homepage__](http://www.reliasoft.com/)
 
-[__NIST/SEMATECH e-Handbook of Statistical Methods__](http://itl.nist.gov/div898/handbook/)
+- [__NIST/SEMATECH e-Handbook of Statistical Methods__](http://itl.nist.gov/div898/handbook/)
 
-[__Defense Systems Information Analysis Center__](http://www.theriac.org/)
+- [__Defense Systems Information Analysis Center__](http://www.theriac.org/)
 
-[__Army Material Systems Analysis Activity__](http://web.amsaa.army.mil/home.html/)
+- [__Army Material Systems Analysis Activity__](http://web.amsaa.army.mil/home.html/)
 
 
 ## Grading
-- Homework: 35% (approximately 6 assignments)
+- Homework: 35%
 - Exams: 35% 
 - Project: 30% 
 
 ## Homework Assignments
 - Homework is assigned to help you learn the material.  If you don't do the assignments, you won't do well in the course.  You're encouraged to work together on the homework assignments, but everyone must complete and turn in their own work.  You won't learn much from copying someone's homework set, so don't do it.  You may use any other available resource to complete the assignments, however you must cite them.  Homework will be graded on completeness, (i.e. full credit will be given when a "complete" attempt to each problem is made) with one caveat, see __Exams__.  Solutions will be posted after the assignments are turned in.  Questions to the instructor, both in class and during office hours, are welcomed and encouraged.
-
-> __HW #0:__ In preparation for the course [__follow these steps__](https://afit.shinyapps.io/r-intro-installation) to install and test the R/RStudio tool-chain
 
 ## Exams
 - I've chosen to modify the standard exam process in a way that I believe is (1) fair to you and (2) easy to grade.  After I receive your completed homework assignments and provide the solutions, I'll choose 3-4 exercises from the homework set to serve as exam questions.  These selected exercises will be evaluated more rigorously than the others and grade will serve as your exam score.  A comprehensive final exam take-home will be given during the final class meeting (due date TBD)
@@ -74,7 +72,7 @@
 - Each of these tools will be used ths quarter
 
     + R Project for Statistical Computing
-
+    
     + RStudio IDE
 
     + Mathjax
@@ -93,7 +91,7 @@
 - No Class:   18 January 2016 (Columbus Day), 15 February 2016 (President's Day) 
 
 ## Grading
-- [1.00 - 0.93]: A
+- (1.00 - 0.93]: A
 - (0.93 - 0.90]: A-
 - (0.90 - 0.87]: B+
 - (0.87 - 0.83]: B
